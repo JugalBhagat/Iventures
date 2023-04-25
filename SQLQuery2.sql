@@ -1,0 +1,1 @@
+﻿update places set place_name='Nainital-Trek' where price=6500;
